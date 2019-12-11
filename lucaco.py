@@ -1,5 +1,4 @@
-# (c) @UniBorg
-and Lucaco FF apresenta
+# (c) @UniBorg and Lucaco FF apresenta
 # Original written by @UniBorg edit by @aidetico
 
 from telethon import events
